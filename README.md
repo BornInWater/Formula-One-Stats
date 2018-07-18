@@ -13,7 +13,7 @@ This project is an attempt to bring to fore statistics of the sport since its co
 ## Sample Plots
 ### Country Vs Number of Constructors
 <p align="center">
-  <img height="776" width="727" src="https://github.com/BornInWater/Formula-One-Stats/blob/master/Plots/Constructors.png">
+  <img height="676" width="627" src="https://github.com/BornInWater/Formula-One-Stats/blob/master/Plots/Constructors.png">
   </p>
 
 ### Country Vs Number of Drivers
